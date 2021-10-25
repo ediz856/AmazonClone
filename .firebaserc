@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-7501b": {
+      "hosting": {
+        "my-amazon-clone": [
+          "fir-7501b"
+        ]
+      }
+    }
+  }
+}
